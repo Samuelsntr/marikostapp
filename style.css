@@ -17,7 +17,8 @@
 }
 
 .jumbotron {
-    background-image: url(img/bghouse.jpg);
+    /* background-image: url(img/bghouse.jpg); */
+    background-color: #FFB82E;
     background-size: cover;
     height: 540px;
     text-align: center;
