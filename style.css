@@ -1,3 +1,37 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+html {
+	font-size: 10px;
+	font-family: 'Montserrat', sans-serif;
+	scroll-behavior: smooth;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
+p {
+	color: black;
+	font-size: 1.4rem;
+	margin-top: 5px;
+	line-height: 2.5rem;
+	font-weight: 300;
+	letter-spacing: 0.05rem;
+}
+
+.section-title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
 /* navbar */
 .navbar {
     position: relative;
@@ -18,7 +52,7 @@
 
 .jumbotron {
     background-image: url(img/bghouse.jpg);
-    background-color: #FFB82E;
+    /* background-color: #ffffff; */
     background-size: cover;
     height: 540px;
     text-align: center;
@@ -40,7 +74,6 @@
     bottom: 0;
     background-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
 }
-
 
 
 .jumbotron .display-4 {
@@ -148,6 +181,88 @@
     opacity: 1;
 }
 
+/* contact Section */
+#contact .contact {
+	flex-direction: column;
+	max-width: 1200px;
+	margin: 0 auto;
+	width: 90%;
+}
+#contact .contact-items {
+	/* max-width: 400px; */
+	width: 100%;
+}
+#contact .contact-item {
+	width: 80%;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	padding: 30px;
+	margin: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	box-shadow: 0px 0px 18px 0 #0000002c;
+	transition: 0.3s ease box-shadow;
+}
+#contact .contact-item:hover {
+	box-shadow: 0px 0px 5px 0 #0000002c;
+}
+#contact .icon {
+	width: 70px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+#contact .contact-info h1 {
+	font-size: 2.5rem;
+	font-weight: 500;
+	margin-bottom: 5px;
+}
+#contact .contact-info h2 {
+	font-size: 1.3rem;
+	line-height: 2rem;
+	font-weight: 500;
+}
+
+@media only screen and (min-width: 768px) {
+	/* contact  */
+	#contact .contact {
+		flex-direction: column;
+		padding: 100px 0;
+		align-items: center;
+		justify-content: center;
+		min-width: 20vh;
+	}
+	#contact .contact-items {
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+		margin: 0;
+	}
+	#contact .contact-item {
+		width: 100%;
+		margin: 5px;
+		flex-direction: row;
+	}
+	#contact .contact-item .icon {
+		height: 100px;
+		width: 100px;
+	}
+	#contact .contact-item .icon img {
+		object-fit: contain;
+	}
+	#contact .contact-item .contact-info {
+		width: 100%;
+		text-align: left;
+		padding-left: 20px;
+	}
+	/* End contact  */
+}
+
+/*End contact Section */
+
 /* footer */
 
 .footer p {
@@ -192,7 +307,7 @@ h1.heading {
     }
 }
 @media (min-width: 900px) {
-    h1.heading {
+    h1.heading { 
     font-size: 3.25em;
     margin: 0 0 0.3em;
     }
