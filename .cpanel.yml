@@ -3,5 +3,11 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/u1642890/public_html/
     - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp about.php $DEPLOYPATH
+    - /bin/cp blog.php $DEPLOYPATH
+    - /bin/cp detailKost.php $DEPLOYPATH
+    - /bin/cp footer.php $DEPLOYPATH
+    - /bin/cp header.php $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH
