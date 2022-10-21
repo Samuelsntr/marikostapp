@@ -33,16 +33,16 @@
         semua kota
       </button>
       <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="#">Action</a></li>
-        <li><a class="dropdown-item" href="#">Another action</a></li>
-        <li><a class="dropdown-item" href="#">Something else here</a></li>
+        <li><a class="dropdown-item" href="#">Denpasar Selatan</a></li>
+        <li><a class="dropdown-item" href="#">Denpasar Utara</a></li>
+        <li><a class="dropdown-item" href="#">Lainnya</a></li>
       </ul>
     </div>
   </div>
   <div class="row">
     <div class="col">
       <a href="detailKost.php">
-        <div class="kamarKost"><img src="img/kamar1.jpg" alt=""></div>
+        <div class="kamarKost"><img src="img/fotoKost/kost 1.jpeg" alt=""></div>
       </a>
       <div class="detailKost mt-2">
         <button type="button" class="btn btn-outline-secondary">
@@ -52,12 +52,12 @@
           Campuran
         </button>
         <span>Tersisa 3 kamar</span>
-        <p class="mt-1">Kost Casa Santorini Nusa Indah Pertiwi Denpasar Timur</p>
-        <p class="harga">Rp 2.250.000/bulan</p>
+        <p class="mt-1">Jl Tukad Pancoran Gg 2D No 5 </p>
+        <p class="harga">Rp 800.000/bulan</p>
       </div>
     </div>
     <div class="col">
-      <div class="kamarKost"><img src="img/kamar1.jpg" alt=""></div>
+      <div class="kamarKost"><img src="img/fotoKost/kost2.jpeg" alt=""></div>
       <div class="detailKost mt-2">
         <button type="button" class="btn btn-outline-secondary">
           Kost Low
@@ -66,12 +66,12 @@
           Campuran
         </button>
         <span>Tersisa 3 kamar</span>
-        <p class="mt-1">Kost Casa Santorini Nusa Indah Pertiwi Denpasar Timur</p>
-        <p class="harga">Rp 2.250.000/bulan</p>
+        <p class="mt-1">Jl Bedugul Gg Cenderawasih No 43, Sidakarya </p>
+        <p class="harga">Rp 1.200.000/bulan</p>
       </div>
     </div>
     <div class="col">
-      <div class="kamarKost"><img src="img/kamar1.jpg" alt=""></div>
+      <div class="kamarKost"><img src="img/fotoKost/kost3.jpeg" alt=""></div>
       <div class="detailKost mt-2">
         <button type="button" class="btn btn-outline-secondary">
           Kost Low
@@ -80,8 +80,8 @@
           Campuran
         </button>
         <span>Tersisa 3 kamar</span>
-        <p class="mt-1">Kost Casa Santorini Nusa Indah Pertiwi Denpasar Timur</p>
-        <p class="harga">Rp 2.250.000/bulan</p>
+        <p class="mt-1">Jl Bedugul No 1XX Sidakarya (sebelah eqq)</p>
+        <p class="harga">Rp 1.000.000/bulan</p>
       </div>
     </div>
   </div>
@@ -98,15 +98,15 @@
         semua kota
       </button>
       <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="#">Action</a></li>
-        <li><a class="dropdown-item" href="#">Another action</a></li>
-        <li><a class="dropdown-item" href="#">Something else here</a></li>
+        <li><a class="dropdown-item" href="#">Denpasar Selatan</a></li>
+        <li><a class="dropdown-item" href="#">Denpasar Utara</a></li>
+        <li><a class="dropdown-item" href="#">Lainnya</a></li>
       </ul>
     </div>
   </div>
   <div class="row">
     <div class="col">
-      <div class="kamarKost"><img src="img/kamar1.jpg" alt=""></div>
+      <div class="kamarKost"><img src="img/fotoKost/kost4.jpeg" alt=""></div>
       <div class="detailKost mt-2">
         <button type="button" class="btn btn-outline-secondary">
           Kost Low
@@ -115,12 +115,12 @@
           Campuran
         </button>
         <span>Tersisa 3 kamar</span>
-        <p class="mt-1">Kost Casa Santorini Nusa Indah Pertiwi Denpasar Timur</p>
-        <p class="harga">Rp 2.250.000/bulan</p>
+        <p class="mt-1">Jl Tukad Badung XXV No 5A</p>
+        <p class="harga">Rp 800.000/bulan</p>
       </div>
     </div>
     <div class="col">
-      <div class="kamarKost"><img src="img/kamar1.jpg" alt=""></div>
+      <div class="kamarKost"><img src="img/fotoKost/kost5.jpeg" alt=""></div>
       <div class="detailKost mt-2">
         <button type="button" class="btn btn-outline-secondary">
           Kost Low
@@ -129,12 +129,12 @@
           Campuran
         </button>
         <span>Tersisa 3 kamar</span>
-        <p class="mt-1">Kost Casa Santorini Nusa Indah Pertiwi Denpasar Timur</p>
-        <p class="harga">Rp 2.250.000/bulan</p>
+        <p class="mt-1">Jl Raya Pesanggaran Gg 8 No 22, Perum Bank Pedungan </p>
+        <p class="harga">Rp 800.000/bulan</p>
       </div>
     </div>
     <div class="col">
-      <div class="kamarKost"><img src="img/kamar1.jpg" alt=""></div>
+      <div class="kamarKost"><img src="img/fotoKost/kost6.jpeg" alt=""></div>
       <div class="detailKost mt-2">
         <button type="button" class="btn btn-outline-secondary">
           Kost Low
@@ -143,8 +143,8 @@
           Campuran
         </button>
         <span>Tersisa 3 kamar</span>
-        <p class="mt-1">Kost Casa Santorini Nusa Indah Pertiwi Denpasar Timur</p>
-        <p class="harga">Rp 2.250.000/bulan</p>
+        <p class="mt-1">Gang Mulya Sari No 1, Sesetan </p>
+        <p class="harga">Rp 1.000.000/bulan</p>
       </div>
     </div>
   </div>
