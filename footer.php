@@ -2,7 +2,7 @@
 <!-- <div class="line"></div> -->
 
 <!-- FOOTER -->
-<footer class="footer mt-5">
+<footer id="contact" class="footer mt-5">
     <div class="row ket" style="border-bottom: 1px solid #BEBEBE;">
         <div class="col">
             <h4>Marikost</h4>

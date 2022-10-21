@@ -210,14 +210,14 @@
 </section>
 
 <!-- SECTION ABOUT -->
-<section>
+<section id="about">
   <div class="about">
     <div class="row">
       <div class="col-7">
         <h1>WHAT IS</h1>
         <h1 style="margin-top: -22px;">MARIKOST?</h1>
         <p>Platform layanan jasa yang membantu mengatasi masalah pemilik kost, pencari kost bahkan anak kost untuk mengelola, mencari kost hingga memenuhi kebutuhan selama menjadi anak kost. Marikost juga memberikan rekomendasi kost-kostan yang sesuai dengan kategori yang tersedia dan dengan deskripsi lengkap. </p>
-        <button type="button" class="btn btn-dark">Read More</button>
+        <a href="about.php"><button type="button" class="btn btn-dark">Read More</button></a>
       </div>
       <div class="col-5"><img src="img/aboutMari.png" alt="..."></div>
     </div>

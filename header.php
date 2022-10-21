@@ -21,10 +21,10 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active tulisan" aria-current="page" href="#">About</a>
+                            <a class="nav-link active tulisan" aria-current="page" href="#about">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active tulisan" href="#">Service</a>
+                            <a class="nav-link active tulisan" href="#layanan">Service</a>
                         </li>
                     </ul>
                 </div>
@@ -34,7 +34,7 @@
                             <a class="nav-link active tulisan" aria-current="page" href="#">Login/Sign in</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active tulisan" href="#">Contact</a>
+                            <a class="nav-link active tulisan" href="#contact">Contact</a>
                         </li>
                     </ul>
                 </div>
