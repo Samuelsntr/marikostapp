@@ -4,7 +4,7 @@
     <h2 class="text-center fw-bold my-3">
         OUR BLOG
     </h2>
-    <div class="mainBlog position-relative" style="background-image: url('img/blog.png');
+    <div class="mainBlog position-relative" style="background-image: url('img/blogg.jpg');
 ">
         <div class="descBlog ms-5">
             <h1>URUTAN KOST TERBAIK DI BALI, NOMOR 4 BIKIN KETAR KETIR</h1>

@@ -155,7 +155,7 @@
 <!-- End Cari Kost -->
 
 <!-- Section Layanan Jasa -->
-<section>
+<section id="layanan">
   <div class="judul text-center my-5">Layanan Jasa</div>
   <div class="row justify-content-start">
     <div class="col-md-3 mb-5">

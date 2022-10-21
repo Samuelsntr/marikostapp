@@ -14,7 +14,7 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
-                <a><img src="img/Logo MARIKOST.png" alt="" width="70" height="70"></a>
+                <a href="index.php"><img src="img/Logo MARIKOST.png" alt="" width="70" height="70"></a>
                 <input class="form-control me-2 cari" type="search" placeholder="Mau kost dimana?" aria-label="Search">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -26,6 +26,9 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active tulisan" href="#layanan">Service</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active tulisan" href="blog.php">Blog</a>
                         </li>
                     </ul>
                 </div>
