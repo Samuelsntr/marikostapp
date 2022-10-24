@@ -240,7 +240,7 @@
             </svg>
           </div>
           <div class="d-fex my-auto ms-2">
-            <div class="nama">Ayu Tantyana</div>
+            <div class="nama">Kumara Natha</div>
             <div style="margin-top: -10px;">
               <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="#FFB82E" class="bi bi-star-fill" viewBox="0 0 16 16">
                 <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
@@ -251,16 +251,16 @@
               <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="#FFB82E" class="bi bi-star-fill" viewBox="0 0 16 16">
                 <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
               </svg>
-              <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="#BCBCBC" class="bi bi-star-fill" viewBox="0 0 16 16">
+              <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="#FFB82E" class="bi bi-star-fill" viewBox="0 0 16 16">
                 <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
               </svg>
-              <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="#BCBCBC" class="bi bi-star-fill" viewBox="0 0 16 16">
+              <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="#FFB82E" class="bi bi-star-fill" viewBox="0 0 16 16">
                 <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
               </svg>
             </div>
           </div>
         </div>
-        <div class="detailTesti m-2">Lorem ipsum dolor sit simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</div>
+        <div class="detailTesti m-2">Saya dibantu banget nyari kost daerah sesetan, sesuai sama yang dimau dan responnya baik. Terimakasih udah membantu </div>
       </div>
       <div class="col-lg testi mx-3">
         <div class="d-flex flex-row m-3">
@@ -271,7 +271,7 @@
             </svg>
           </div>
           <div class="d-fex my-auto ms-2">
-            <div class="nama">Geraldy Latris</div>
+            <div class="nama">Nanda</div>
             <div style="margin-top: -10px;">
               <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="#FFB82E" class="bi bi-star-fill" viewBox="0 0 16 16">
                 <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
@@ -291,7 +291,7 @@
             </div>
           </div>
         </div>
-        <div class="detailTesti m-2">Lorem ipsum dolor sit simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</div>
+        <div class="detailTesti m-2">Makasi udah dibantuin nyari kost-kostan, akhirnya dapet sama yang sesuai harganya, dikasi lumayan banyak rekomendasi juga. Lancar terus</div>
       </div>
       <div class="col-lg testi">
         <div class="d-flex flex-row m-3">
@@ -302,7 +302,7 @@
             </svg>
           </div>
           <div class="d-fex my-auto ms-2">
-            <div class="nama">Amelia Dianti</div>
+            <div class="nama">Jeananta Suputra</div>
             <div style="margin-top: -10px;">
               <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="#FFB82E" class="bi bi-star-fill" viewBox="0 0 16 16">
                 <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
@@ -322,7 +322,7 @@
             </div>
           </div>
         </div>
-        <div class="detailTesti m-2">Lorem ipsum dolor sit simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</div>
+        <div class="detailTesti m-2">Sangat membantu saya dalam mencari kost yang dekat dengan kampus UNDIKNAS, Sangat memuaskan.</div>
       </div>
     </div>
   </div>
